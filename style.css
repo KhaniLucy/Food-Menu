@@ -61,7 +61,7 @@ body {
     top: 20px;
 }
 
-.label, .input-field:focus-.input-label {
+.label .input-field:focus-.input-label {
     position: absolute;
     top: 0;
     display: block;
